@@ -23,7 +23,7 @@
   Esse projeto explora as saídas digitais com sinais lógicos fixos e faz um LED ligar em estado específico e previamente programado.
 </p>
 
-## Blink
+## Acender LED
 
 ### Introdução
 
