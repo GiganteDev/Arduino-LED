@@ -21,6 +21,8 @@
 ## Sobre o Projeto
 <p align="left">
   Esse projeto explora as saídas digitais com sinais lógicos fixos e faz um LED ligar em estado específico e previamente programado.
+
+  Projeto de exemplo para ligar um LED em um Arduino.
 </p>
 
 ## Acender LED
