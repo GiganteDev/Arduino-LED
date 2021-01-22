@@ -1,7 +1,7 @@
 ## 2.2 Diagrama de ligação
 
 <p align="center">
-  <img src="https://github.com/GiganteDev/Arduino-LED/blob/main/src/2-Ambiente/img-ligacao-arduino.png" width="520">
+  <img src="/src/2-Ambiente/img-ligacao-arduino.png" width="520">
 </p>
 
 <p align="center">Projeto Arduino: Piscando LED</p>
